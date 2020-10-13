@@ -2,4 +2,5 @@
 
 Multiple Time Series Alignment on Multi-length Patterns
 
-The data will be uploaded once the paper is accepted.
+Some demo data is published.
+The original data will be uploaded once the paper is accepted.
